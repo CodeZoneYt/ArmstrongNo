@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 void main(){
     int i,n,r,temp,s=0;
     printf("enter the no to check Armstrong or not\n");
